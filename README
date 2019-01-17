@@ -1,0 +1,2 @@
+# Install
+go build -o AuditAWS.exe cloudtrail.go ec2.go s3.go main.go sts.go
